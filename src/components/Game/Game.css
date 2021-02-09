@@ -1,0 +1,15 @@
+.game {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+.history {
+    width: 100px;
+    height: 30px;
+    background-color: lightslategray;
+    border-radius: 10%;
+    cursor: pointer;
+}

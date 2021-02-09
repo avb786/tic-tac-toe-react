@@ -1,0 +1,11 @@
+.box {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    background: #c0c0c0;
+    box-shadow: 5px 5px 12px #757575, 300px -5px 12px #ffffff;
+    padding: 10px;
+  }
+  .row {
+    display: flex;
+  }
